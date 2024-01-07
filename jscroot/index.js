@@ -4,9 +4,9 @@ import { insertHTML } from "https://cdn.jsdelivr.net/gh/jscroot/api@0.0.4/croot.
 import {onHashChange} from "https://cdn.jsdelivr.net/gh/jscroot/url@0.0.4/croot.js";
 
 //internal call
-import { url,id } from "./url/config.js";
-import { getContentURL } from "./url/content.js";
-import {runAfterHeader,runAfterContent,runAfterHashChange} from "./controller/main.js";
+import { url,id } from "https://aldodwrzy.github.io/GISPage/jscroot/url/config.js";
+import { getContentURL } from "https://aldodwrzy.github.io/GISPage/jscroot/url/content.js";
+import {runAfterHeader,runAfterContent,runAfterHashChange} from "https://aldodwrzy.github.io/GISPage/jscroot/controller/main.js";
 
 
 //adding CSS
