@@ -1,7 +1,7 @@
 //lib call
 import {getHash} from "https://cdn.jsdelivr.net/gh/jscroot/url@0.0.2/croot.js";
 //internal call
-import { url } from "./config.js";
+import { url } from "https://aldodwrzy.github.io/GISPage/jscroot/url/config.js";
 
 export function getContentURL(){
     let hashlink=getHash();
