@@ -1,4 +1,4 @@
-const dataGeoJson = await fetch('./api/data.json')
+const dataGeoJson = await fetch('https://aldodwrzy.github.io/GISPage/api/data.json')
         .then(response => response.json())
 
 export function main() {
